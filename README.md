@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm zainab</h1>
 <h3 align="center">I'M A CODE ENTHUSIAST | CS STUDENT WITH A FLAIR FOR WEB DEVELOPMENT</h3>
 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="right" height="300" width="600" />
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="right" height="300" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainab255&label=Profile%20views&color=0e75b6&style=flat" alt="zainab255" /> </p>
 
